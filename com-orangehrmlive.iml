@@ -10,16 +10,7 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/jars/selenium-server-4.8.3.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library" exported="">
-      <library>
-        <CLASSES>
-          <root url="jar://$MODULE_DIR$/../com-nopcommerce/jars/selenium-server-4.8.3.jar!/" />
+          <root url="jar://$MODULE_DIR$/jar/selenium-server-4.8.3.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
